@@ -36,6 +36,13 @@ library(tidyverse)
 
 11. Faça uma mudança numa branch 
 
+
+
+
+
+
+## Graficos para testes de conflitos
+
 ```{r grafico, warning=F, message=F}
 library(tidyverse)
 iris |> 
