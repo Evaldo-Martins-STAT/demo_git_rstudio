@@ -30,4 +30,12 @@ library(tidyverse)
 
 8.  Eu puxo as mudanças do colaborador
 
-9.  Uh Oh, nós não nos comuniamos e ambos tentamos fazer mudanças no mesmo arquivo. 
+9.  Uh Oh, nós não nos comuniamos e ambos tentamos fazer mudanças ao documento ao mesmo tempo --\> Merge conglict ! Mostra como resolver !
+
+```{r}
+library(tidyverse)
+iris |> 
+  group_by(Species) |> 
+  summarise(media = mean(Sepal.Length), des_pad = sd(Sepal.Length)) |> 
+  head()
+```
