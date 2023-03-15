@@ -34,7 +34,17 @@ library(tidyverse)
 
 10. Podemos continuar a trabalhar desta maneira . Ou Podíamos dicionar branches. Mostre como adicionar branch no R clicado em "branch"n aaba Git (próxima a setting). Mostre que ela também uda no Github
 
-11. Faça uma mudança numa branch 
+11. Faça uma mudança ao arquivo numa branch 9uma pequena mudanças - como alguns palavras) e comite e empurre. Mostre o que aparece no Github (Pull request - Revise e Mescle e apague a branch). Puxe as mudnaças de volta para o R Studio.
+
+12. Adicione uma nova branch. Faça uma mudança maior, comite, e empurre. Você pode encontrar mudança que preccisam de resolução
+
+13. Mostre creating and issue and using branching/PR para solucionar o problema e feche o issue
+
+14. Eu salvei um arquivo mas não quero asmudanças que acabei de fazer. Você pode também escolher diff para ver como tem mudado desde sua útlima vesão
+
+15. Oh shoot (Ou talvez uma palavra pior), eu não queria comitar isso ! (ou eu não posso empurrar o que aacbei de comitar) Nós precisamos nos over paraa linha de comando no terminal. Quando estiver lá, use "git reset HEAD~1". Isto trará todas coisas de vota que você comitou - Então você deletá-las se você realmente não as quer todas ou edita a vontande e recomite.
+
+16. 
 
 
 
