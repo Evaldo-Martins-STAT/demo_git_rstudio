@@ -30,4 +30,4 @@ library(tidyverse)
 
 8.  Eu puxo as mudanças do colaborador
 
-9.  Oh, ambos
+9.  Uh Oh, nós não nos comuniamos e ambos tentamos fazer mudanças no mesmo arquivo. 
