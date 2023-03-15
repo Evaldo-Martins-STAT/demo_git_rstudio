@@ -36,10 +36,11 @@ library(tidyverse)
 
 11. Faça uma mudança numa branch 
 
-```{r}
+```{r grafico, warning=F, message=F}
 library(tidyverse)
 iris |> 
   ggplot(aes(x = Sepal.Length, y = Sepal.Width)) +
   geom_point() +
-  labs( x= "Comprimento da Sépala", y = "Largura da sépala")
+  labs( x= "Comprimento da Sépala", y = "Largura da sépala") +
+  geom_smooth()
 ```
