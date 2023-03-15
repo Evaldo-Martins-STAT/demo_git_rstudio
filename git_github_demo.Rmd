@@ -32,6 +32,10 @@ library(tidyverse)
 
 9.  Uh Oh, nós não nos comuniamos e ambos tentamos fazer mudanças ao documento ao mesmo tempo --\> Merge conglict ! Mostra como resolver !
 
+10. Podemos continuar a trabalhar desta maneira . Ou Podíamos dicionar branches. Mostre como adicionar branch no R clicado em "branch"n aaba Git (próxima a setting). Mostre que ela também uda no Github
+
+11. Faça uma mudança numa branch 
+
 ```{r}
 library(tidyverse)
 iris |> 
