@@ -8,3 +8,6 @@ date: "`r Sys.Date()`"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+1.  Criar repositorio
+
+2.  Adiconar colaborador
