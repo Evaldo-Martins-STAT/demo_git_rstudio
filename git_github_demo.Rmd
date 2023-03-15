@@ -37,10 +37,5 @@ library(tidyverse)
 iris |> 
   ggplot(aes(x = Sepal.Length, y = Sepal.Width)) +
   geom_point() +
-<<<<<<< HEAD
-  labs( x= "Compirmento da Sepala", y = "Largura")
-=======
-  labs( x= "Sepala", y = "Largura da sépala")
->>>>>>> a1e2c605b84672d4b83f40bc8d27adf554a36975
-
+  labs( x= "Comprimento da Sépala", y = "Largura da sépala")
 ```
