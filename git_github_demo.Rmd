@@ -8,26 +8,26 @@ date: "`r Sys.Date()`"
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = F)
 ```
 
-
 ```{r}
 library(tidyverse)
 ```
 
-
-0. Tenha certeza que o Git está instalado e criado um repositório
+0.  Tenha certeza que o Git está instalado e criado um repositório
 
 1.  Criar repositorio no github web. Sempre adicione a README e pensa a cerca de uma licença
 
 2.  Clone o repositório no Rstudio
 
-3. Salve este arquivo na pasta desse repsitório, comite e empurras as mudaças
+3.  Salve este arquivo na pasta desse repsitório, comite e empurras as mudaças
 
-4. Adicione um colaborador com conta no github web
+4.  Adicione um colaborador com conta no github web
 
-5. Colaborador clona o Repositório ao R Studio
+5.  Colaborador clona o Repositório ao R Studio
 
-6. Eu faço uma mudança, comito e empurro
+6.  Eu faço uma mudança, comito e empurro
 
-7. Colaborador puxa as mudanças, faz novas mudanças, comita e empurra
+7.  Colaborador puxa as mudanças, faz novas mudanças, comita e empurra
 
-8. Eu puxo as mudanças do colaborador
+8.  Eu puxo as mudanças do colaborador
+
+9.  Oh, ambos
