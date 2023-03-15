@@ -35,7 +35,8 @@ library(tidyverse)
 ```{r}
 library(tidyverse)
 iris |> 
-  group_by(Species) |> 
-  summarise(media = mean(Sepal.Length), des_pad = sd(Sepal.Length)) |> 
-  head()
+  ggplot(aes(x = Sepal.Length, y = Sepal.Width)) +
+  geom_point() +
+  labs( x= "Sepala", y = "Largura")
+
 ```
