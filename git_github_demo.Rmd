@@ -55,7 +55,7 @@ library(tidyverse)
 iris |> 
   ggplot(aes(x = Sepal.Length, y = Sepal.Width)) +
   geom_point() +
-  labs( x= "Comprimento da Sépala", y = "Largura da sépala",
+  labs( x= "Comprimento da Sépala", y = "LARGURA da sépala",
         caption = "Evaldo Silva fez este no Lenovo") +
   geom_smooth()
 ```
