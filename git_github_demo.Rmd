@@ -3,6 +3,9 @@ title: "git_github_demo"
 output: html_document
 date: "`r Sys.Date()`"
 ---
+Fonte de estudo do youtube: https://www.youtube.com/watch?v=megZYkCLMA4&t=850s
+
+è razoável, mas não encontrei uma boa até agora !
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = F)
