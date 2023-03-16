@@ -59,3 +59,9 @@ iris |>
         caption = "Evaldo Silva fez este no Lenovo") +
   geom_smooth()
 ```
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| 8    |      |      |
+| 9    |      |      |
+| 0    |      |      |
